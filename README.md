@@ -101,6 +101,20 @@ Related research and creative direction: **SeaAI Project.**
 
 Documentation and project materials are licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/), unless a file states otherwise.
 
+
+## About the CSF 2.0 Community Profile Template
+
+This template is provided as an optional supplemental resource to NIST CSWP #32, NIST Cybersecurity Framework 2.0: A Guide to Creating Community Profiles ("Community Profiles Guide").  The Community Profiles Guide provides considerations for creating and using Community Profiles to help implement CSF 2.0. The purpose of the template is to help communities develop their own Community Profiles.  
+
+This template contains the following worksheets:
+- Profile Metadata: Contains administrative information about the Community Profile
+- Community Profile:  The template communities can follow to complete a Community Profile
+- Column Descriptions:  Explains each column in the Community Profile
+
+Please send questions or feedback regarding this template to framework-profiles@nist.gov.
+
+
+
 ---
 
 <div align="center">
